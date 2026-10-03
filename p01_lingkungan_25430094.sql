@@ -2,10 +2,10 @@
 -- Nama: Abizar Gavra Andika
 -- NPM: 25430094
 
-CREATE DATABASE IF NOT EXISTS kopma_094
-  CHcd "D:\Kuliah\Semester 3\basis data\Toko daring"ARACTER SET utf8mb4 
+CREATE DATABASE IF NOT EXISTS store_094
+  CHARACTER SET utf8mb4 
   COLLATE utf8mb4_unicode_ci;
 
 CREATE USER IF NOT EXISTS 'abizar_094'@'localhost' IDENTIFIED BY 'PasswordKerja#123';
-GRANT ALL PRIVILEGES ON kopma_094.* TO 'abizar_094'@'localhost';
-FLUSH PRIVILEGES;cd "D:\Kuliah\Semester 3\basis data\Toko daring"
+GRANT ALL PRIVILEGES ON store_094.* TO 'abizar_094'@'localhost';
+FLUSH PRIVILEGES;
