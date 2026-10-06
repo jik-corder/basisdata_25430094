@@ -1,6 +1,6 @@
 # Dokumen Kebutuhan Data - Proyek Toko Daring (Store 094)
 
-**NIM:** 25430094  
+**NPM:** 25430094  
 **Nama Organisasi Fiktif:** Toko Daring Store 094  
 **Tanggal:** 4 Oktober 2026  
 
